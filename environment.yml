@@ -5,6 +5,7 @@ dependencies:
   # Required for full project functionality (dont remove)
   - pytest
   # Additional packages below
+  - ipython
   - jupyter
   - jupyterlab
   - xarray
@@ -14,3 +15,4 @@ dependencies:
   - netcdf4
   - pandas
   - matplotlib
+  - cmocean
