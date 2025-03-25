@@ -1,0 +1,18 @@
+name: ooi-on-bco-dmo
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pandas
+  - jupyterlab
+  - xarray
+  - dask
+  - netcdf4
+  - pytest
+  - numpy
+  - matplotlib
+  - jupyter
+  - scipy
+  - cmocean
+  - ipython
+
